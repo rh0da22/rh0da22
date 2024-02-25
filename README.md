@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome to my profile 😄!
+
+### My name is Rhoda and I am currently enrolled in a data science bootcamp, so I will be uploading projects that I work on often. You can also find my portfolio [here](https://www.hyperiondev.com/portfolio/RD23100009805/). In this bootcamp I am learning mainly to code in python and our current focus is NLP which I am excited about.
+
+### My goal is to land a graduate/junior role as a data scientist / analyst!
+
+### If you want to reach me my email is **rhoda.durodola@yahoo.com**.
+
+
 
 <!--
 **rh0da22/rh0da22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
