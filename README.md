@@ -1,9 +1,10 @@
 # Welcome to my profile 😄
 
-### - Thank you for visiting my GitHub page! This repository is a collection of my coding projects, experiments and tasks completed at university. 
-### - My goal is to land a graduate/junior role as a data scientist / analyst.
+### Thank you for visiting my GitHub page! This repository is a collection of my coding projects, experiments and tasks completed at university. 
 
-- 💻 I’m currently working on building and manipulating a database with SQL as part of the Code First Girls course in Data and SQL.
+- My goal is to land a graduate/junior role as a data scientist / analyst.
+
+- I’m currently working on building and manipulating a database with SQL as part of the Code First Girls course in Data and SQL.
 
 
 #### 📧 How to reach me: **rhoda.durodola22@gmail.com**.
