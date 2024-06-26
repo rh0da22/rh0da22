@@ -4,7 +4,7 @@
 
 - My goal is to land a graduate/junior role as a data scientist / analyst.
 
-- I’m currently working on building and manipulating a database with SQL as part of the Code First Girls course in Data and SQL.
+- I’m currently working on building and manipulating a database with SQL as part of the Code First Girls course in Data and SQL. (Apr 24)
 
 
 #### 📧 How to reach me: **rhoda.durodola22@gmail.com**.
